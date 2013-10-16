@@ -1,14 +1,14 @@
-#Open Source
+#Open Sourc
 
--Kári Mímisson
-
+*Kári Mímisson
+** Vann þetta einn
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Hef notað Ubuntu Linux síðan í Desember og mér hefur líkað vel. Er ekki komin
+tími fyrir Arch Linux?
 
-Gekk mjög vel og virkilega gaman að því að vinn á Ubuntu.
-![Kári á Mallorca](http://s14.postimg.org/5jzroxzkh/picture_18.png)
+![Ubuntu Linux](http://s14.postimg.org/5jzroxzkh/picture_18.png)
 
 ## 2. Uppsetning á vim && git
 
@@ -25,12 +25,14 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 Ég gerði þetta bara einn og lærði því rosalega mikið á því. Allt gekk vel. 
 [Linkurinn á verkefnið INTOprufa](https://github.com/kari14/INTOPrufa)
 
+Og hér er keyinn minn set hann til öryggis
+Test (d5:d6:65:19:d2:72:3c:b8:dc:e5:88:54:07:e8:3c:b4)  
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
-1.  
-	LibreOffice  LGPLv3 leyfið. 
+
+1.  	LibreOffice  LGPLv3 leyfið. 
 	http://www.libreoffice.org/download/license/ og
 	http://anongit.freedesktop.org/git/libreoffice/core.git/
 	Vona að þið samþykið LibreOffice sem eitt open software.
@@ -43,8 +45,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 	Frogatto er klárlega minn uppáhaldsleikur. 
 	Mæli með því að byrja að spila hann.
 
-3.	
-	Clang LLVM leyfið
+3.		Clang LLVM leyfið
 	http://clang.llvm.org/features.html
 	http://llvm.org/releases/download.html
 	
