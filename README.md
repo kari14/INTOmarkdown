@@ -32,25 +32,14 @@ Test (d5:d6:65:19:d2:72:3c:b8:dc:e5:88:54:07:e8:3c:b4)
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 
-1.  	LibreOffice  LGPLv3 leyfið. 	
-1.	http://www.libreoffice.org/download/license/ og
-1.	http://anongit.freedesktop.org/git/libreoffice/core.git/
-1.	Vona að þið samþykið LibreOffice sem eitt open software.
-1.	Vissulega margir kóðar en ég ætla að taka þetta sem eitt og set alla
-1.	kóðana með. 
+1.  	LibreOffice  LGPLv3 leyfið. [Linkurinn á leyfið](http://www.libreoffice.org/download/license/) og [Linkurinn fyrir kóðan](http://anongit.freedesktop.org/git/libreoffice/core.git/) Vona að þið samþykið LibreOffice sem eitt open software.
 
-2.	Frogatto GNU General Public License
-2.	http://en.wikipedia.org/wiki/Frogatto_&_Friends	
-2.	https://github.com/frogatto/frogatto  	
-2.	Frogatto er klárlega minn uppáhaldsleikur. 
-2.	Mæli með því að byrja að spila hann.
+2.	Frogatto GNU General Public License [Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto)[Linkurinn fyrir leyfið](http://en.wikipedia.org/wiki/Frogatto_&_Friends) Frogatto er klárlega minn uppáhaldsleikur. 
 
-3.	Clang LLVM leyfið
-3.	http://clang.llvm.org/features.html
-3.	http://llvm.org/releases/download.html
+3.	Clang LLVM leyfið [Linkurinn fyrir leyfið](http://clang.llvm.org/features.html)[Linkurinn fyrir kóðan](http://llvm.org/releases/download.html)
 	
 
 ## 5. Unnið með Git (2. hluti)
 
-**Virkilega skemmtilegt verkefni takk fyrir mig.** 
+**Virkilega skemmtilegt verkefni takk fyrir mig.**  
 *Kári Mímisson.*
