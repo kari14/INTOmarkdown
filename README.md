@@ -1,7 +1,7 @@
 #Open Sourc
 
 * Kári Mímisson
-* * Vann þetta einn
+  * Vann þetta einn
 
 ## 1. Linux uppsetning
 
@@ -33,6 +33,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 
 
 1.  	LibreOffice  LGPLv3 leyfið. 
+	
 	http://www.libreoffice.org/download/license/ og
 	http://anongit.freedesktop.org/git/libreoffice/core.git/
 	Vona að þið samþykið LibreOffice sem eitt open software.
@@ -52,5 +53,5 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 
 ## 5. Unnið með Git (2. hluti)
 
-Virkilega skemmtilegt verkefni takk fyrir mig. 
-Kári Mímisson.
+**Virkilega skemmtilegt verkefni takk fyrir mig.** 
+*Kári Mímisson.*
