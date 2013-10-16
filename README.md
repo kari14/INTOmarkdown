@@ -1,7 +1,7 @@
 #Open Sourc
 
-*Kári Mímisson
-** Vann þetta einn
+* Kári Mímisson
+* * Vann þetta einn
 
 ## 1. Linux uppsetning
 
