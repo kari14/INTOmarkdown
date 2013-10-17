@@ -8,7 +8,7 @@
 Hef notað Ubuntu Linux síðan í Desember og mér hefur líkað vel. Er ekki komin
 tími fyrir Arch Linux?
 
-![Ubuntu Linux](https://raw.github.com/kari14/INTOmarkdown/master/Screenshot%20from%202013-10-17%2013:57:27.png)
+[Ubuntu Linux](https://raw.github.com/kari14/INTOmarkdown/master/Screenshot%20from%202013-10-17%2019:30:12.png)
 
 ## 2. Uppsetning á vim && git
 
