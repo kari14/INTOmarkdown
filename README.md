@@ -30,7 +30,7 @@ Og hér er keyinn minn set hann til öryggis
 Test (d5:d6:65:19:d2:72:3c:b8:dc:e5:88:54:07:e8:3c:b4)  
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar sjá verkefnislýsingu.
 
 
 1.  	LibreOffice  LGPLv3 leyfið.
@@ -39,11 +39,11 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
    *	Vona að þið samþykið LibreOffice sem eitt open software.
 
 2.	Frogatto GNU General Public License.
-    *	[Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto)
+    *	[Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto) og
     *	[Linkurinn fyrir leyfið](http://en.wikipedia.org/wiki/Frogatto_&_Friends)
 
 3.	Clang LLVM leyfið.
-    *	[Linkurinn fyrir leyfið](http://clang.llvm.org/features.html)
+    *	[Linkurinn fyrir leyfið](http://clang.llvm.org/features.html) og
     *	[Linkurinn fyrir kóðan](http://llvm.org/releases/download.html)
 	
 
