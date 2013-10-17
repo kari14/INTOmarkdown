@@ -8,7 +8,7 @@
 Hef notað Ubuntu Linux síðan í Desember og mér hefur líkað vel. Er ekki komin
 tími fyrir Arch Linux?
 
-[Ubuntu Linux](https://raw.github.com/kari14/INTOmarkdown/master/Screenshot%20from%202013-10-17%2019:30:12.png)
+![Ubuntu Linux](https://raw.github.com/kari14/INTOmarkdown/master/Screenshot%20from%202013-10-17%2019:30:12.png)
 
 ## 2. Uppsetning á vim && git
 
@@ -33,11 +33,18 @@ Test (d5:d6:65:19:d2:72:3c:b8:dc:e5:88:54:07:e8:3c:b4)
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 
-1.  	LibreOffice  LGPLv3 leyfið. [Linkurinn á leyfið](http://www.libreoffice.org/download/license) og [Linkurinn fyrir kóðan](http://anongit.freedesktop.org/git/libreoffice/core.git) Vona að þið samþykið LibreOffice sem eitt open software.
+1.  	LibreOffice  LGPLv3 leyfið.
+*	[Linkurinn á leyfið](http://www.libreoffice.org/download/license) og
+*	[Linkurinn fyrir kóðan](http://anongit.freedesktop.org/git/libreoffice/core.git)
+*	Vona að þið samþykið LibreOffice sem eitt open software.
 
-2.	Frogatto GNU General Public License [Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto) [Linkurinn fyrir leyfið](http://en.wikipedia.org/wiki/Frogatto_&_Friends) Frogatto er klárlega minn uppáhaldsleikur. 
+2.	Frogatto GNU General Public License
+*	[Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto)
+*	[Linkurinn fyrir leyfið](http://en.wikipedia.org/wiki/Frogatto_&_Friends)
 
-3.	Clang LLVM leyfið [Linkurinn fyrir leyfið](http://clang.llvm.org/features.html) [Linkurinn fyrir kóðan](http://llvm.org/releases/download.html)
+3.	Clang LLVM leyfið
+*	[Linkurinn fyrir leyfið](http://clang.llvm.org/features.html)
+*	[Linkurinn fyrir kóðan](http://llvm.org/releases/download.html)
 	
 
 ## 5. Unnið með Git (2. hluti)
