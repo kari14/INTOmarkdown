@@ -34,17 +34,17 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 
 
 1.  	LibreOffice  LGPLv3 leyfið.
-*	[Linkurinn á leyfið](http://www.libreoffice.org/download/license) og
-*	[Linkurinn fyrir kóðan](http://anongit.freedesktop.org/git/libreoffice/core.git)
-*	Vona að þið samþykið LibreOffice sem eitt open software.
+   *	[Linkurinn á leyfið](http://www.libreoffice.org/download/license) og
+   *	[Linkurinn fyrir kóðan](http://anongit.freedesktop.org/git/libreoffice/core.git)
+   *	Vona að þið samþykið LibreOffice sem eitt open software.
 
 2.	Frogatto GNU General Public License
-*	[Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto)
-*	[Linkurinn fyrir leyfið](http://en.wikipedia.org/wiki/Frogatto_&_Friends)
+    *	[Linkurinn fyrir kóðan](https://github.com/frogatto/frogatto)
+    *	[Linkurinn fyrir leyfið](http://en.wikipedia.org/wiki/Frogatto_&_Friends)
 
 3.	Clang LLVM leyfið
-*	[Linkurinn fyrir leyfið](http://clang.llvm.org/features.html)
-*	[Linkurinn fyrir kóðan](http://llvm.org/releases/download.html)
+    *	[Linkurinn fyrir leyfið](http://clang.llvm.org/features.html)
+    *	[Linkurinn fyrir kóðan](http://llvm.org/releases/download.html)
 	
 
 ## 5. Unnið með Git (2. hluti)
